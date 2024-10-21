@@ -1,0 +1,9 @@
+.border {
+  border: 2px solid gainsboro;
+  padding: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.bold {
+  font-weight: 900;
+}
